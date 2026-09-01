@@ -1,4 +1,4 @@
-## 💫 Hi there👋,
+## 💫 Hi there👋
 This is Salman Farsi. A passionate learner and programmer.  <br><br>- 🔭 I’ve been working on Web projects and Programming languages for few years now.<br>- 👯 I’m looking to collaborate on open source projects or team.<br>- 💬 Ask me about fullstack web projects based on MERN stack.<br>- 📫 How to reach me: salman30909@gmail.com<br>- ⚡ Fun fact: I like exploring new technologies, hiking on the mountains.<br>
 
 
